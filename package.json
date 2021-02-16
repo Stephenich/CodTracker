@@ -1,0 +1,9 @@
+{
+  "name": "CodTracker",
+  "version": "1.0.0",
+  "description": "Call of Duty stat tracker",
+  "main": "index.js",
+  "repository": "git@github.com:Stephenich/CodTracker.git",
+  "author": "Stephenich <sma.gurney@gmail.com>",
+  "license": "MIT"
+}
