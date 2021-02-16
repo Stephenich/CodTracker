@@ -1,9 +1,17 @@
 {
-  "name": "CodTracker",
+  "name": "cod-tracker",
   "version": "1.0.0",
   "description": "Call of Duty stat tracker",
   "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
   "repository": "git@github.com:Stephenich/CodTracker.git",
   "author": "Stephenich <sma.gurney@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
